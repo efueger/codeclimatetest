@@ -1,0 +1,13 @@
+{
+  "extends": "plugin:security/recommended",
+  "plugins": [
+      "security"
+  ],
+  "parserOptions": {
+      "ecmaVersion": 6
+  },
+  "rules": {
+      "semi": 2,
+      "security/detect-object-injection": 0
+  }
+}

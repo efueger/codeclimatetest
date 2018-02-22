@@ -1,0 +1,15 @@
+{
+  "plugins": [
+      "import"
+  ],
+  "globals": {
+      "after": 1,
+      "afterEach": 1,
+      "before": 1,
+      "beforeEach": 1,
+      "clock": 1,
+      "describe": 1,
+      "expect": 1,
+      "it": 1
+  }
+}
