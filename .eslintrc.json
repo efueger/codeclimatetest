@@ -9,6 +9,6 @@
     "rules": {
         "semi": 2,
         "security/detect-object-injection": 0,
-        "max-len": 10
+        "comma-dangle": ["error", "always"]
     }
 }
